@@ -1,4 +1,4 @@
-# BeamSense
+# BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback
 
 This is the implementation of the paper [BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback](https://doi.org/10.1016/j.comnet.2024.111020). The repository shares both the datasets and the source code of **BeamSense.**
 
