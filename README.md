@@ -36,7 +36,8 @@ and
 (I) clone the repository with ``` git clone git@github.com:kfoysalhaque/BeamSense.git ```  <br/>
 (II) ```cd BeamSense``` <br/>
 (III) Then download the [BeamSense Dataset](https://ieee-dataport.org/documents/dataset-human-activity-classification-mu-mimo-bfi-and-csi#files) within the repository. <br/>
-If the IEEE Dataport doesn't work for you, please find the Google Drive link here: https://drive.google.com/file/d/1s_Tt2ifyLYC1We7WRjRtvTMGiRQcmqyB/view?usp=drive_link <br/>
+  - If the IEEE Dataport doesn't work for you, please find the Google Drive link here: https://drive.google.com/file/d/1s_Tt2ifyLYC1We7WRjRtvTMGiRQcmqyB/view?usp=drive_link <br/>
+  - The full dataset is also available on Hugging Face: https://huggingface.co/datasets/foysalhaque/BeamSense
 
 **You can also contact me (haque.k@northeastern.edu) regarding the dataset.**
 
