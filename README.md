@@ -1,6 +1,12 @@
 # BeamSense
 
-This is the implementation of the paper [BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback](https://doi.org/10.1016/j.comnet.2024.111020). The repository shares both the datasets and the source code of **BeamSense.**
+###### This is the implementation of the paper [BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback](https://doi.org/10.1016/j.comnet.2024.111020). The repository shares both the datasets and the source code of **BeamSense.**
+
+<p align="center">
+<img src="Images/BeamSense-Framework.png" width="700" height="450"
+     alt="Markdown Monster icon"
+     style="float: center;" />
+</p>
 
 If you find the project useful and you use this code, please cite our paper:
 
